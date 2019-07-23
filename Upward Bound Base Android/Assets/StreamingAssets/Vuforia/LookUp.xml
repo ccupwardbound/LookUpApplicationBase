@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Rose" size="0.279400 0.209550" />
+    <ImageTarget name="RochesterHigh" size="0.279400 0.173932" />
+    <ImageTarget name="MonaLisa" size="0.279400 0.370382" />
+    <ImageTarget name="ClockTower" size="0.279400 0.209550" />
+    <ImageTarget name="CentraliaMiddleschool" size="0.279400 0.209550" />
+    <ImageTarget name="Backpack" size="0.279400 0.247674" />
+  </Tracking>
+</QCARConfig>

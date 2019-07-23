@@ -1,0 +1,121 @@
+[
+  {
+    "ID": "Astronaut",
+    "Name": "Astronaut",
+    "Description": {
+      "BackgroundInfo": "Astronaut Background Info",
+      "Location": {
+        "Address": "Astronaut Address",
+        "City": "Astronaut City",
+        "State": "Astronaut State",
+        "ZIP": "Astronaut Zip"
+      }
+    }
+  },
+  {
+    "ID": "RochesterHigh",
+    "Name": "Rochester High School",
+    "Description": {
+      "BackgroundInfo": "The current main building of Rochester High School was founded in the year 1989. The public high school educates students between grades 9-12. The main building is around 66,000 square feet. As of the 2018-2019 school year, student enrollment was 660 students.",
+      "Location": {
+        "Address": "19800 Carper Rd SW",
+        "City": "Rochester",
+        "State": "WA",
+        "ZIP": "98579"
+      }
+    }
+  },
+  {
+    "ID": "",
+    "Name": "#2 Pencil",
+    "Description": {
+      "BackgroundInfo": "A pencil is an implement for writing or drawing, constructed of a narrow, solid pigment core in a protective casing that prevents the core from being broken and marking the user's hand.",
+      "Location": {
+        "Address": "600 Centralia College Blvd",
+        "City": "Centralia",
+        "State": "WA",
+        "ZIP": "98531"
+      }
+    }
+  },
+  {
+    "ID": "ClockTower",
+    "Name": "Centralia College Clock Tower",
+    "Description": {
+      "BackgroundInfo": "The current clock tower that stands today, was built in 1991. At the time, it was the tallest structure on the campus. In 1997, the college began the Clock Tower Diversity Project, which featured monuments to individuals or groups who have made significant contributions to the NW around the clock tower's base.",
+      "Location": {
+        "Address": "600 Centralia College Blvd",
+        "City": "Centralia",
+        "State": "WA",
+        "ZIP": "98531"
+      }
+    }
+  },
+  {
+    "ID": "MonaLisa",
+    "Name": "Mona Lisa",
+    "Description": {
+      "BackgroundInfo": "Italian artist Leonardo di ser Piero da Vinci (Leonardo da Vinci) created this master piece in 1503. This painting is of a mystery women by a mountian side sitting in a chair. This artwork is famous for her smile.",
+      "Location": {
+        "Address": "Rue de Rivoli",
+        "City": "Paris",
+        "State": "France",
+        "ZIP": "750001"
+      }
+    }
+  },
+  {
+    "ID": "",
+    "Name": "Acoustic Guitar",
+    "Description": {
+      "BackgroundInfo": "The guitar is an ancient instrument whose history can be traced back over 4000 years. An acoustic guitar has 6 strings. The sound is produced by plucking the strings causing vibrations that resonate through the guitar's body, creating sound.",
+      "Location": {
+        "Address": "600 Centralia College Blvd",
+        "City": "Centralia",
+        "State": "WA",
+        "ZIP": "98531"
+      }
+    }
+  },
+  {
+    "ID": "Backpack",
+    "Name": "Trio Backpack",
+    "Description": {
+      "BackgroundInfo": "This is a red TRIO backpack. The TRIO Upward Bound program offers students participating in STEM projects an opportunity to experience college level course work. These opportunities are intended to help students better prepare for their future college life.",
+      "Location": {
+        "Address": "600 Centralia College Blvd",
+        "City": "Centralia",
+        "State": "WA",
+        "ZIP": "98531"
+      }
+    }
+  },
+  {
+    "ID": "Rose",
+    "Name": "Rose",
+    "Description": {
+      "BackgroundInfo": "Known for its vibrant colors and thorny stem, a roses' name originates from Latin, rosa. Roses are ornamental plants found in gardens around the world. Throughout history, roses are often shared between people as a sign of affection.",
+      "Location": {
+        "Address": "Jutland St",
+        "City": "Rochester",
+        "State": "WA",
+        "ZIP": "98579"
+      }
+    }
+  },
+  {
+    "ID": "CentraliaMiddleschool",
+    "Name": "Centralia Middle School",
+    "Description": {
+      "BackgroundInfo": "Centralia Middle School is a public school in Centralia. There are 535 students that go to Centralia Middle School, and the ratio of students to teachers is 19:1. The middle school educates kids in grades 7th & 8th. The middle schools mascot is the Yellow Jacket and the motto is \"Together we swarm!\"",
+      "Location": {
+        "Address": "901 Johnson Rd",
+        "City": "Centralia",
+        "State": "WA",
+        "ZIP": "98531"
+      }
+    }
+  }
+]
+
+
