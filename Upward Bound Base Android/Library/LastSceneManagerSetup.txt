@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SamplesResources/Scenes/Lookup_Home.unity
+- path: Assets/SamplesResources/Scenes/Lookup_Finder.unity
   isLoaded: 1
   isActive: 1
